@@ -16,6 +16,10 @@
       </p>
   #+END_HTML
 
+*Warning*: I'm not using the package anymore. I will continue
+merging PRs but I can't test. If you are interested maintaining this
+package, please contact me.
+
 ** Summary
 
 The package desktop-environment provides commands and a global minor
